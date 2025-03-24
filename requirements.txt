@@ -1,0 +1,12 @@
+asgiref==3.7.2
+aws-cfn-bootstrap==2.0
+Django==3.2.25
+docutils==0.14
+lockfile==0.11.0
+pystache==0.5.4
+python-daemon==2.2.3
+pytz==2025.1
+simplejson==3.2.0
+sqlparse==0.4.4
+typing-extensions==4.7.1
+aws-cfn-bootstrap==2.0
