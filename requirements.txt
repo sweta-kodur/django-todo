@@ -1,6 +1,8 @@
 asgiref==3.7.2
 aws-cfn-bootstrap==2.0
-Django==3.2.25
+Django==4.2.2
+djangorestframework==3.14.0
+gunicorn==21.2.0
 docutils==0.14
 lockfile==0.11.0
 pystache==0.5.4
@@ -9,4 +11,3 @@ pytz==2025.1
 simplejson==3.2.0
 sqlparse==0.4.4
 typing-extensions==4.7.1
-aws-cfn-bootstrap==2.0
